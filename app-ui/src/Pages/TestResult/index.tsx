@@ -25,7 +25,7 @@ const TestResult = () => {
       status="success"
       title="Congratulations you have finished the test."
       subTitle={state.testResult.description}
-      extra={[<Button onClick={restartTest}>Try Again</Button>]}
+      extra={<Button onClick={restartTest}>Try Again</Button>}
     />
   );
 };
