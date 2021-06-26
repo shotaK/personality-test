@@ -1,5 +1,7 @@
 # Personality Test API
 
 ## Run project:
-$ npm i
-$ npm start
+
+### `$ npm i`
+
+### `$ npm start`
